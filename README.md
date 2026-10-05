@@ -59,7 +59,11 @@ Then reference it:
 3. GitHub uploads it and inserts a `https://github.com/user-attachments/assets/...` URL
 4. Paste that URL on its own line in this README; GitHub renders it as an inline video player
 
-<!-- DEMO: replace this comment with ![demo](assets/demo.gif) or the user-attachments URL -->
+
+
+https://github.com/user-attachments/assets/f2eb8fb7-2e66-4f42-a584-537f96d2191e
+
+
 
 ## 🚀 Quick Start
 
